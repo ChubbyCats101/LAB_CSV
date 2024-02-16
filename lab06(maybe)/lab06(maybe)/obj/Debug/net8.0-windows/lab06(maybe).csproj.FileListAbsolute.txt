@@ -1,0 +1,16 @@
+D:\งานวิชาต่างๆ\GitCats\lab06(maybe)\lab06(maybe)\bin\Debug\net8.0-windows\lab06(maybe).exe
+D:\งานวิชาต่างๆ\GitCats\lab06(maybe)\lab06(maybe)\bin\Debug\net8.0-windows\lab06(maybe).deps.json
+D:\งานวิชาต่างๆ\GitCats\lab06(maybe)\lab06(maybe)\bin\Debug\net8.0-windows\lab06(maybe).runtimeconfig.json
+D:\งานวิชาต่างๆ\GitCats\lab06(maybe)\lab06(maybe)\bin\Debug\net8.0-windows\lab06(maybe).dll
+D:\งานวิชาต่างๆ\GitCats\lab06(maybe)\lab06(maybe)\bin\Debug\net8.0-windows\lab06(maybe).pdb
+D:\งานวิชาต่างๆ\GitCats\lab06(maybe)\lab06(maybe)\obj\Debug\net8.0-windows\lab06_maybe_.Form1.resources
+D:\งานวิชาต่างๆ\GitCats\lab06(maybe)\lab06(maybe)\obj\Debug\net8.0-windows\lab06(maybe).csproj.GenerateResource.cache
+D:\งานวิชาต่างๆ\GitCats\lab06(maybe)\lab06(maybe)\obj\Debug\net8.0-windows\lab06(maybe).GeneratedMSBuildEditorConfig.editorconfig
+D:\งานวิชาต่างๆ\GitCats\lab06(maybe)\lab06(maybe)\obj\Debug\net8.0-windows\lab06(maybe).AssemblyInfoInputs.cache
+D:\งานวิชาต่างๆ\GitCats\lab06(maybe)\lab06(maybe)\obj\Debug\net8.0-windows\lab06(maybe).AssemblyInfo.cs
+D:\งานวิชาต่างๆ\GitCats\lab06(maybe)\lab06(maybe)\obj\Debug\net8.0-windows\lab06(maybe).csproj.CoreCompileInputs.cache
+D:\งานวิชาต่างๆ\GitCats\lab06(maybe)\lab06(maybe)\obj\Debug\net8.0-windows\lab06(maybe).dll
+D:\งานวิชาต่างๆ\GitCats\lab06(maybe)\lab06(maybe)\obj\Debug\net8.0-windows\refint\lab06(maybe).dll
+D:\งานวิชาต่างๆ\GitCats\lab06(maybe)\lab06(maybe)\obj\Debug\net8.0-windows\lab06(maybe).pdb
+D:\งานวิชาต่างๆ\GitCats\lab06(maybe)\lab06(maybe)\obj\Debug\net8.0-windows\lab06(maybe).genruntimeconfig.cache
+D:\งานวิชาต่างๆ\GitCats\lab06(maybe)\lab06(maybe)\obj\Debug\net8.0-windows\ref\lab06(maybe).dll
